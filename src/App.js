@@ -60,7 +60,7 @@ class App extends Component {
           "zip": "Singapore 507010"
         },
         "website": "http://www.timbakerdev.com",
-        "resumedownload":"https://drive.google.com/file/d/1eAjVjZfj7r3pFDXQPw8BMS0PMAv0m3n0/view?usp=sharing",
+        "resumedownload":"https://drive.google.com/file/d/1M8aaTIS3J4bD02aLTs7fmuJJEVbPVJBO/view?usp=sharing",
         "social":[
           {
             "name":"github",
