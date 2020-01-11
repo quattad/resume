@@ -31,6 +31,9 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
+            <div className="row">
+            <p><em>Please allow a while for the live demos to load as most are hosted on a free dyno on Heroku.</em></p>
+            </div>
           </div>
       </div>
    </section>
