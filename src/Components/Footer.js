@@ -20,7 +20,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyright 2020 Jonathan Quah</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a> and template from <a href="http://www.timbakerdev.com/">Tim Baker</a>.</li>
+              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a> and <a href="https://github.com/tbakerx/react-resume-template">template</a> from <a href="http://www.timbakerdev.com/">Tim Baker</a>.</li>
            </ul>
 
         </div>

@@ -60,7 +60,7 @@ class App extends Component {
           "zip": "Singapore 507010"
         },
         "website": "http://www.timbakerdev.com",
-        "resumedownload":"https://drive.google.com/file/d/1M8aaTIS3J4bD02aLTs7fmuJJEVbPVJBO/view?usp=sharing",
+        "resumedownload":"https://drive.google.com/file/d/194s3iNi0o9M7utkpYFoGAeFxN2rxSL4F/view?usp=sharing",
         "social":[
           {
             "name":"github",
@@ -79,12 +79,12 @@ class App extends Component {
         "education":[
           {
             "school":"National University of Singapore (NUS)",
-            "degree":"Bachelor of Technology (Chemical Engineering)",
+            "degree":"Bachelor of Engineering (Chemical Engineering)",
             "graduated":"August 2015 - May 2019",
             "description": [
               "Grade: Honours (With Distinction)", 
               "NUS Overseas Colleges (NOC) Scholarship",
-              "Vice President, NUS Entrepreneurship Society",
+              "Vice President (Social Enterprise), NUS Entrepreneurship Society",
               "Organizing Committee, TEDxNUS 2017"
             ]
           }
@@ -104,7 +104,7 @@ class App extends Component {
             "companyTitle":"NeoZeo AB",
             "companyCountry": "Stockholm, Sweden",
             "title":"Business Development Executive",
-            "years":"March 2007 - February 2010",
+            "years":"August 2017 - June 2018",
             "description": [
               "Refactored HTML, CSS and JavaScript on company website for SEO performance and improved search ranking to top 10 results on Google Search", 
               "Collaborated with client’s software engineers to drive mobile application to be published on iOS and Android platforms within schedule and budget constraints"]
